@@ -1,0 +1,23 @@
+{
+  "name": "scss-bem-blocks",
+  "description": "",
+  "main": "",
+  "keywords": [
+    "scss",
+    "sass",
+    "bem"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/web-wiz/scss-bem-blocks",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scss-mixins": "web-wiz/scss-mixins#^0"
+  }
+}
