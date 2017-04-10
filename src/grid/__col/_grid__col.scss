@@ -1,16 +1,5 @@
-.grid {
-    .grid__col {
-        display: inline-block;
-        font-size: $font_size_base;
-        padding: 15px;
-        text-align: center;
-        vertical-align: top;
-
-        &:first-child {
-            margin-left: -15px;
-        }
-        &:last-child {
-            margin-right: -15px;
-        }
-    }
+.grid__col {
+    display: inline-block;
+    font-size: $font_size_base;
+    padding: 0 $grid_gutter_width;
 }
